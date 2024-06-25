@@ -1,5 +1,5 @@
 # 5H1R0 
 ## シロ
-A Pr0ject 1dea 1nspired Fr0m B0st0n Sp0t R0b0t
+A PR0J3CT 1D3A 1NSP1R3D FR0M B05T0N 5P0T R0B0T
 
 ***Currently resting, will wake it up soon!***
